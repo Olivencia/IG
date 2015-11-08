@@ -16,4 +16,4 @@ En el archivo Instalación.pdf se explicará como poder ejecutar correctamente l
 
 # Notas 
 
-Estás prácticas están destinadas para consulta y no para su total ("copy-paste") o parcial entrega en esta asignatura de la UGR.
+Estás prácticas están destinadas para consulta o para proyectos ajenos a la UGR y no para su entrega total o parcial en esta asignatura de la UGR.  
