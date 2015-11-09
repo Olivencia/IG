@@ -1,6 +1,11 @@
-#Práctica 3 - Revolución de un modelo a partir de un perfil
+Práctica 3 - Revolución de un modelo a partir de un perfil
+==
 
 En esta práctica se ha procurado crear un personaje de una serie de televisión, Bart Simpson. Para ella se han ido cogiendo las diferentes formas ya creadas (esfera, semiesfera, cilindro, cubo, tetraedro, etc) y con imaginación escalarlas y trasladarlas para componer la figura completa. 
+
+En la siguiente imagen podremos ver el personaje:
+
+!["BartSimpson"](https://github.com/Olivencia/IG/blob/master/Pr%C3%A1ctica%203/BartSimpson.png)
 
 Se han cargado un ficheros PLY para su lectura de datos en memoria: beethoven.ply (necesaria para la correcta entrega de la práctica)
 
