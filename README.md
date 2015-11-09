@@ -6,9 +6,9 @@ Práctica 1 - Carga de archivos PLY.
 
 Práctica 2 - Revolución de un modelo a partir de un perfil.
 
-Práctica 3 - Modelos jerárquicos.
+Práctica 3 - Modelos jerárquicos y movimiento.
 
-Práctica 4 - Iluminación, texturas y movimiento.
+Práctica 4 - Iluminación y texturas.
 
 Práctica 5 - Interacción con el ratón.
 
