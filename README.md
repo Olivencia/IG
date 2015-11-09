@@ -1,4 +1,5 @@
-# Informática Gráfica
+Informática Gráfica
+==
 
 Aquí se pueden consultar las prácticas de Informática Gráfica de la UGR:
 
