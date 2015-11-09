@@ -1,31 +1,31 @@
-#Práctica 2 - Iluminación y texturas 
+#Práctica 4 - Iluminación y texturas 
 
 El objetivo de esta prácticas es añadir texturas a los modelos y establecer focos de iluminación fijos y móviles.
 
-Se han cargado un ficheros PLY para su lectura de datos en memoria: beethoven.ply (necesaria para la correcta entrega de la práctica)
+Se han cargado cuatro ficheros PLY para su lectura de datos en memoria: perfil.ply, lata-psup.ply, lata-pcue.ply, lata-pinf.ply
 
 Se han establecido 4 modos de visualización: puntos, lineas, sólido y ajedrez.
 
-Se han añadido 4 grados de libertad: cuerpo completo, torso, brazos y mano.
+Se han aplicado diferentes imágenes como texturas: duff.jpg, lata.jpg, text-madera.jpg.
+
+Se han establecido dos focos, un foco fijo y otro móvil.
 
 #IMPORTANTE
 
-Se ha añadido la función de movimiento de la figura, para ello hay que modificar en el archivo practica3.cc la variable de la linea 7 idle=true.
+Está práctica es compatible con la práctica 3, por lo que si quiere ver a Bart Simpson con los efectos de iluminación tiene que pulsar el botón "3" cuando se esté ejecutando el programa.
 
 
 #Teclas asignadas
 
-V/v -> 1º Grado de libertad - Mover a Bart en skate
+T/t -> Activar texturas
 
-Z/z -> 2º Grado de libertad - Mover el torso hacia abajo
+B/b -> Activar iluminación plana
 
-X/x -> 3º Grado de libertad - Mover los brazos hacia abajo
+N/n -> Activar iluminación suave
 
-C/c -> 4º Grado de libertad - Mover la mano derecha hacia dentro
+J/j -> Girar luz dinámica
 
-Si se pulsan las teclas anteriores con SHIFT se realizará el movimiento contrario.
-
-
+Si se pulsan las teclas anteriores con SHIFT se realizará lo contrario.
 
 P/p -> Visualizar la figura en modo puntos
 
