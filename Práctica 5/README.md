@@ -1,4 +1,4 @@
-#Práctica 5 - IInteracción con el ratón 
+#Práctica 5 - Interacción con el ratón 
 
 El objetivo de esta prácticas es añadir diferentes modos de interacción del ratón con las figuras.
 
