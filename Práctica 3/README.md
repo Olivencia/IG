@@ -10,7 +10,7 @@ Se han añadido 4 grados de libertad: cuerpo completo, torso, brazos y mano.
 
 #IMPORTANTE
 
-Se ha añadido la función de movimiento de la figura, para ello hay que modificar en el archivo practica3.cc la variable de la linea 7 iddle=true.
+Se ha añadido la función de movimiento de la figura, para ello hay que modificar en el archivo practica3.cc la variable de la linea 7 idle=true.
 
 
 #Teclas asignadas
