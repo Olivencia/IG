@@ -26,4 +26,6 @@ void draw_faces(vector<_vertex3f> &Vertices, vector<_vertex3i> &Faces);
 
 void draw_file(bool color, int valor, bool ajedrez);
 
+void menu();
+
 

@@ -17,6 +17,7 @@ const int AXIS_SIZE=5000;
 int valor=-1;
 bool color = false;
 bool ajedrez = false;
+bool inicio=true;
 
 // variables que definen la posicion de la camara en coordenadas polares
 GLfloat Observer_distance;
@@ -99,6 +100,10 @@ glEnd();
 
 void draw_objects()
 {
+  if(inicio){
+    inicio=false;
+    menu();
+  }
   draw_file(color,valor, ajedrez);
 }
 

@@ -9,6 +9,23 @@
 #include "user_code.h"
 #include "vertex.h"
 
+void menu(){
+  cout << endl;
+  cout << "************************************" << endl;
+  cout << "P -> exit" << endl;
+  cout << "CAMBIAR VISTA:" << endl;
+  cout << "A -> Puntos" << endl;
+  cout << "S -> Aristas" << endl;
+  cout << "D -> Solido" << endl;
+  cout << "F -> Solido/Ajedrez" << endl;
+  cout << endl;
+  cout << "CAMBIAR DIBUJOS: " << endl;
+  cout << "C -> Beethoven" << endl;
+  cout << "B -> Hormiga" << endl;
+  cout << "************************************" << endl;
+  cout << endl;
+}
+
 //**************************************************************************
 // Funcion para dibujar los vertices de un cubo unidad
 //***************************************************************************
