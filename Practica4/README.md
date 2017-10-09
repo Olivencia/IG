@@ -1,4 +1,4 @@
-#Práctica 4 - Iluminación y texturas 
+# Práctica 4 - Iluminación y texturas 
 
 El objetivo de esta prácticas es añadir texturas a los modelos y establecer focos de iluminación fijos y móviles.
 
@@ -10,12 +10,16 @@ Se han aplicado diferentes imágenes como texturas: duff.jpg, lata.jpg, text-mad
 
 Se han establecido dos focos, un foco fijo y otro móvil.
 
-#IMPORTANTE
+En la siguiente imagen podemos ver el grafo jerárquico:
+
+<img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica4/grafo.png">
+
+# IMPORTANTE
 
 Está práctica es compatible con la práctica 3, por lo que si quiere ver a Bart Simpson con los efectos de iluminación tiene que pulsar el botón "3" cuando se esté ejecutando el programa.
 
 
-#Teclas asignadas
+# Teclas asignadas
 
 T/t -> Activar texturas
 
