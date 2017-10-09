@@ -5,7 +5,7 @@ En esta práctica se ha procurado crear un personaje de una serie de televisión
 
 En la siguiente imagen podremos ver el personaje:
 
-<img src="/https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica3/BartSimpson.png">
+<img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica3/BartSimpson.png">
 
 Se han cargado un ficheros PLY para su lectura de datos en memoria: beethoven.ply (necesaria para la correcta entrega de la práctica)
 
