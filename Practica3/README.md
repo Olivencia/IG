@@ -7,11 +7,17 @@ En la siguiente imagen podremos ver el personaje:
 
 <img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica3/BartSimpson.png">
 
+
+En la siguiente imagen podemos ver el grafo jerárquico del personaje:
+
+<img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica3/grafo.png">
+
 Se han cargado un ficheros PLY para su lectura de datos en memoria: beethoven.ply (necesaria para la correcta entrega de la práctica)
 
 Se han establecido 4 modos de visualización: puntos, lineas, sólido y ajedrez.
 
 Se han añadido 4 grados de libertad: cuerpo completo, torso, brazos y mano.
+
 
 #IMPORTANTE
 

@@ -10,9 +10,13 @@ Se han aplicado diferentes imágenes como texturas: duff.jpg, lata.jpg, text-mad
 
 Se han establecido dos focos, un foco fijo y otro móvil.
 
-En la siguiente imagen podemos ver el grafo jerárquico:
+A continuación podremos ver la iluminación y texturas de los objetos de la práctica:
+<img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica4/IluminacionTexturas.png">
 
-<img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica4/grafo.png">
+Sin olvidarnos por supuesto de nuestro colega Bart Simpson:
+<img src="https://github.com/Olivencia/ugr_informatica_grafica/blob/master/Practica4/BartIluminacion.png">
+
+
 
 # IMPORTANTE
 
